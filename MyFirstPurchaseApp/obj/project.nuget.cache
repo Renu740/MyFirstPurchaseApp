@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I69oy3cW2fwxZR59FJqQ1KNhrYpiJ6fpKIxJDD5VycSsgy1/y9XksAAov3aw0L7SdtxHSNsEf1jOMmplvJxaWA==",
+  "success": true,
+  "projectFilePath": "D:\\Ltts Trainning\\MyFirstPurchaseApp\\MyFirstPurchaseApp\\MyFirstPurchaseApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Renu\\.nuget\\packages\\humanizer.core\\2.11.10\\humanizer.core.2.11.10.nupkg.sha512"
+  ],
+  "logs": []
+}

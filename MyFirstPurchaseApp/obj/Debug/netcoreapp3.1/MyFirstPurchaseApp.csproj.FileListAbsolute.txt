@@ -1,0 +1,17 @@
+D:\Ltts Trainning\MyFirstPurchaseApp\MyFirstPurchaseApp\obj\Debug\netcoreapp3.1\MyFirstPurchaseApp.csprojAssemblyReference.cache
+D:\Ltts Trainning\MyFirstPurchaseApp\MyFirstPurchaseApp\obj\Debug\netcoreapp3.1\MyFirstPurchaseApp.AssemblyInfoInputs.cache
+D:\Ltts Trainning\MyFirstPurchaseApp\MyFirstPurchaseApp\obj\Debug\netcoreapp3.1\MyFirstPurchaseApp.AssemblyInfo.cs
+D:\Ltts Trainning\MyFirstPurchaseApp\MyFirstPurchaseApp\bin\Debug\netcoreapp3.1\MyFirstPurchaseApp.exe
+D:\Ltts Trainning\MyFirstPurchaseApp\MyFirstPurchaseApp\bin\Debug\netcoreapp3.1\MyFirstPurchaseApp.deps.json
+D:\Ltts Trainning\MyFirstPurchaseApp\MyFirstPurchaseApp\bin\Debug\netcoreapp3.1\MyFirstPurchaseApp.runtimeconfig.json
+D:\Ltts Trainning\MyFirstPurchaseApp\MyFirstPurchaseApp\bin\Debug\netcoreapp3.1\MyFirstPurchaseApp.runtimeconfig.dev.json
+D:\Ltts Trainning\MyFirstPurchaseApp\MyFirstPurchaseApp\bin\Debug\netcoreapp3.1\MyFirstPurchaseApp.dll
+D:\Ltts Trainning\MyFirstPurchaseApp\MyFirstPurchaseApp\bin\Debug\netcoreapp3.1\MyFirstPurchaseApp.pdb
+D:\Ltts Trainning\MyFirstPurchaseApp\MyFirstPurchaseApp\bin\Debug\netcoreapp3.1\PurchasingLibrary.dll
+D:\Ltts Trainning\MyFirstPurchaseApp\MyFirstPurchaseApp\bin\Debug\netcoreapp3.1\PurchasingLibrary.pdb
+D:\Ltts Trainning\MyFirstPurchaseApp\MyFirstPurchaseApp\obj\Debug\netcoreapp3.1\MyFirstPurchaseApp.csproj.CopyComplete
+D:\Ltts Trainning\MyFirstPurchaseApp\MyFirstPurchaseApp\obj\Debug\netcoreapp3.1\MyFirstPurchaseApp.dll
+D:\Ltts Trainning\MyFirstPurchaseApp\MyFirstPurchaseApp\obj\Debug\netcoreapp3.1\MyFirstPurchaseApp.pdb
+D:\Ltts Trainning\MyFirstPurchaseApp\MyFirstPurchaseApp\obj\Debug\netcoreapp3.1\MyFirstPurchaseApp.genruntimeconfig.cache
+D:\Ltts Trainning\MyFirstPurchaseApp\MyFirstPurchaseApp\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Ltts Trainning\MyFirstPurchaseApp\MyFirstPurchaseApp\obj\Debug\netcoreapp3.1\MyFirstPurchaseApp.csproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+D:\Ltts Trainning\MyFirstPurchaseApp\PurchasingLibrary\bin\Debug\netstandard2.0\PurchasingLibrary.deps.json
+D:\Ltts Trainning\MyFirstPurchaseApp\PurchasingLibrary\bin\Debug\netstandard2.0\PurchasingLibrary.dll
+D:\Ltts Trainning\MyFirstPurchaseApp\PurchasingLibrary\bin\Debug\netstandard2.0\PurchasingLibrary.pdb
+D:\Ltts Trainning\MyFirstPurchaseApp\PurchasingLibrary\obj\Debug\netstandard2.0\PurchasingLibrary.csprojAssemblyReference.cache
+D:\Ltts Trainning\MyFirstPurchaseApp\PurchasingLibrary\obj\Debug\netstandard2.0\PurchasingLibrary.AssemblyInfoInputs.cache
+D:\Ltts Trainning\MyFirstPurchaseApp\PurchasingLibrary\obj\Debug\netstandard2.0\PurchasingLibrary.AssemblyInfo.cs
+D:\Ltts Trainning\MyFirstPurchaseApp\PurchasingLibrary\obj\Debug\netstandard2.0\PurchasingLibrary.dll
+D:\Ltts Trainning\MyFirstPurchaseApp\PurchasingLibrary\obj\Debug\netstandard2.0\PurchasingLibrary.pdb
+D:\Ltts Trainning\MyFirstPurchaseApp\PurchasingLibrary\obj\Debug\netstandard2.0\PurchasingLibrary.csproj.CoreCompileInputs.cache
