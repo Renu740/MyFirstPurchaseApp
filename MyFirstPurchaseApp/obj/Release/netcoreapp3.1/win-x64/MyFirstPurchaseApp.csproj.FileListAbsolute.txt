@@ -1,0 +1,16 @@
+D:\Ltts Trainning\MyFirstPurchaseApp\MyFirstPurchaseApp\bin\Release\netcoreapp3.1\win-x64\MyFirstPurchaseApp.exe
+D:\Ltts Trainning\MyFirstPurchaseApp\MyFirstPurchaseApp\bin\Release\netcoreapp3.1\win-x64\MyFirstPurchaseApp.deps.json
+D:\Ltts Trainning\MyFirstPurchaseApp\MyFirstPurchaseApp\bin\Release\netcoreapp3.1\win-x64\MyFirstPurchaseApp.runtimeconfig.json
+D:\Ltts Trainning\MyFirstPurchaseApp\MyFirstPurchaseApp\bin\Release\netcoreapp3.1\win-x64\MyFirstPurchaseApp.runtimeconfig.dev.json
+D:\Ltts Trainning\MyFirstPurchaseApp\MyFirstPurchaseApp\bin\Release\netcoreapp3.1\win-x64\MyFirstPurchaseApp.dll
+D:\Ltts Trainning\MyFirstPurchaseApp\MyFirstPurchaseApp\bin\Release\netcoreapp3.1\win-x64\MyFirstPurchaseApp.pdb
+D:\Ltts Trainning\MyFirstPurchaseApp\MyFirstPurchaseApp\bin\Release\netcoreapp3.1\win-x64\Humanizer.dll
+D:\Ltts Trainning\MyFirstPurchaseApp\MyFirstPurchaseApp\bin\Release\netcoreapp3.1\win-x64\PurchasingLibrary.dll
+D:\Ltts Trainning\MyFirstPurchaseApp\MyFirstPurchaseApp\bin\Release\netcoreapp3.1\win-x64\PurchasingLibrary.pdb
+D:\Ltts Trainning\MyFirstPurchaseApp\MyFirstPurchaseApp\obj\Release\netcoreapp3.1\win-x64\MyFirstPurchaseApp.AssemblyInfoInputs.cache
+D:\Ltts Trainning\MyFirstPurchaseApp\MyFirstPurchaseApp\obj\Release\netcoreapp3.1\win-x64\MyFirstPurchaseApp.AssemblyInfo.cs
+D:\Ltts Trainning\MyFirstPurchaseApp\MyFirstPurchaseApp\obj\Release\netcoreapp3.1\win-x64\MyFirstPurchaseApp.csproj.CoreCompileInputs.cache
+D:\Ltts Trainning\MyFirstPurchaseApp\MyFirstPurchaseApp\obj\Release\netcoreapp3.1\win-x64\MyFirstPurchaseApp.csproj.CopyComplete
+D:\Ltts Trainning\MyFirstPurchaseApp\MyFirstPurchaseApp\obj\Release\netcoreapp3.1\win-x64\MyFirstPurchaseApp.dll
+D:\Ltts Trainning\MyFirstPurchaseApp\MyFirstPurchaseApp\obj\Release\netcoreapp3.1\win-x64\MyFirstPurchaseApp.pdb
+D:\Ltts Trainning\MyFirstPurchaseApp\MyFirstPurchaseApp\obj\Release\netcoreapp3.1\win-x64\MyFirstPurchaseApp.genruntimeconfig.cache
